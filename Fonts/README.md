@@ -2,9 +2,9 @@
 
 ## Fonts used in Free League's publications:
 ### Aniron
-User for greater headings.
+Used for greater headings.
 
-You can find this free for personal use font on [Pete Klassen's site](https://www.thehutt.de/tolkien/fonts.html)
+You can find this free for personal use font on [Pete Klassen's site](https://www.thehutt.de/tolkien/fonts.html). It was based on the end credits of the Lord of the Rings films.
 
 ### New Baskerville
 Used for lesser headings and body text.
